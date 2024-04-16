@@ -1,0 +1,4 @@
+The contract will be minted with 1,000,000,000 tokens. 97% of which will be available for purhase in the LP. 
+3% will be reserved to cover development costs such as website hosting, dexscreener social update etc.
+100% of LP will be burnt
+Contract will be available on our website, twitter & telegram prior to launch
